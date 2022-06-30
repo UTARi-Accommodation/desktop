@@ -25,6 +25,3 @@ jobs:
 
             - name: Run Format Check
               run: make format-check
-
-            - name: Run Build
-              run: make build
