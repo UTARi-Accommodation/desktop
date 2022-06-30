@@ -8,8 +8,12 @@
     "description": "An application to help UTAR students look for accommodations around UTAR area",
     "repository": "https://github.com/Utari-Room/desktop",
     "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^5.30.0",
+        "@typescript-eslint/parser": "^5.30.0",
         "electron": "^19.0.4",
         "electron-builder": "^23.1.0",
+        "eslint": "^8.18.0",
+        "prettier": "^2.7.1",
         "typescript": "^4.7.4"
     },
     "dependencies": {
