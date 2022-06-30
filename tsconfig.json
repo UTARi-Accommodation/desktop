@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "incremental": true,
+        "target": "ESNEXT",
+        "module": "CommonJS",
+        "allowJs": false,
+        "checkJs": false,
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedIndexedAccess": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+        "pretty": true,
+        "outDir": "dist",
+        "declaration": false,
+        "declarationMap": false,
+        "sourceMap": false,
+        "preserveWatchOutput": true
+    },
+    "include": ["src/"],
+    "exclude": ["node_modules"]
+}

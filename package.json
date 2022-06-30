@@ -1,0 +1,18 @@
+{
+    "name": "utari-desktop",
+    "version": "0.0.0",
+    "main": "dist",
+    "private": true,
+    "author": "PoolOfDeath20",
+    "license": "GPL-3.0",
+    "description": "An application to help UTAR students look for accommodations around UTAR area",
+    "repository": "https://github.com/Utari-Room/desktop",
+    "devDependencies": {
+        "electron": "^19.0.4",
+        "electron-builder": "^23.1.0",
+        "typescript": "^4.7.4"
+    },
+    "dependencies": {
+        "electron-util": "^0.17.2"
+    }
+}
